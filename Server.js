@@ -10,6 +10,8 @@ const mongoose = require('mongoose');
 // conflicts by ahmed
 // git stash switch between 2 branch 
 /* require and configure .env*/
+
+console.log('conflicts');
 require("dotenv").config({ path: "./config/.env" });
 const url = process.env.MONGO_URI;
 
