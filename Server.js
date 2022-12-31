@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 // code live .... 
 
 // git stach exampl
-
+// conflicts by ahmed
 // git stash switch between 2 branch 
 /* require and configure .env*/
 require("dotenv").config({ path: "./config/.env" });
