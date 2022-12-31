@@ -13,6 +13,7 @@ const mongoose = require('mongoose');
 
 console.log('conflicts');
 console.log('ahmed');
+console.log('ahmed1');
 require("dotenv").config({ path: "./config/.env" });
 const url = process.env.MONGO_URI;
 
